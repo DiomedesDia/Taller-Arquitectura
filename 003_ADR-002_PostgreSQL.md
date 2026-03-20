@@ -23,7 +23,7 @@ Por lo tanto, es necesario seleccionar una tecnología de base de datos que equi
 ## Drivers de Decisión
 
 - **DR-01:** Performance (≤ 5 seg entrada, ≤ 500 ms consultas) (Prioridad: Alta)
-- 
+- **DR-02**  Disponibilidad en horas pico  ≥ 99.5% operacional; cero downtime 7–10am y 5–8pm (Prioridad: Alta )
 - **DR-03:** Escalabilidad (450 → 1.200 espacios) (Prioridad: Alta)  
 - **DR-05:** Seguridad (PCI-DSS, Ley 1581, retención DIAN) (Prioridad: Alta)  
 - **DR-06:** Costo ≤ $2.000 USD/mes (Prioridad: Media)  
