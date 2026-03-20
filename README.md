@@ -2,10 +2,10 @@
 ## Grupo 4
 
 **Integrantes:**
-- Harold Alejandro Vargas Martínez - 00020526190 - [Email]
-- Juan Martin Trejos - 00020513089 - [Email]
-- Wilson David Sanchez Prieto - [Código] - [Email]
-- Juan Sebastian Forero Moreno - [Código] - [Email]
+- Harold Alejandro Vargas Martínez - 00020526190 
+- Juan Martin Trejos - 00020513089 
+- Wilson David Sanchez Prieto - [Código] 
+- Juan Sebastian Forero Moreno - [Código] 
 
 **Fecha de entrega:** 19/03/2026
 
@@ -280,4 +280,5 @@ Grupo4_Taller_Documentacion_Arquitectural.zip
 
 ---
 
-**¡Gracias "Querido Profesor" por revisar nuestro trabajo!**
+**Creado:** Marzo 2026  
+**Última actualización:** 19 de marzo de 2026
