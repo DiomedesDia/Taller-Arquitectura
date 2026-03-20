@@ -474,12 +474,10 @@ Estos contenedores siguen la arquitectura basada en servicios definida en ADR-00
 
 ## APROBACIONES
 
-| Rol | Nombre | Firma | Fecha |
-|-----|--------|-------|-------|
-| **Líder del Grupo** | Harold Alejandro Vargas Martínez | __________ | 19/03/2026 |
-| **Arquitecto** | Juan Martin Trejos | __________ |  19/03/2026|
-| **Desarrollador 1** | Wilson David Sanchez Prieto | __________ |  19/03/2026 |
-| **Desarrollador 2** | Juan Sebastian Forero Moreno | __________ |  19/03/2026 |
+- Harold Alejandro Vargas Martínez: Harold Vargas - Fecha: 18/03/2026  
+- Juan Martin Trejos: Martin Trejos - Fecha: 18/03/2026  
+- Wilson David Sanchez Prieto: Wilson Sanchez - Fecha: 18/03/2026  
+- Juan Sebastian Forero Moreno: Sebastian Forero - Fecha: 18/03/2026
 
 ---
 
