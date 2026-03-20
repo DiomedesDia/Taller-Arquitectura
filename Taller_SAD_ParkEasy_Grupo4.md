@@ -476,10 +476,10 @@ Estos contenedores siguen la arquitectura basada en servicios definida en ADR-00
 
 | Rol | Nombre | Firma | Fecha |
 |-----|--------|-------|-------|
-| **Líder del Grupo** | Harold Alejandro Vargas Martínez | __________ | ___/___/___ |
-| **Arquitecto** | Juan Martin Trejos | __________ | ___/___/___ |
-| **Desarrollador 1** | Wilson David Sanchez Prieto | __________ | ___/___/___ |
-| **Desarrollador 2** | Juan Sebastian Forero Moreno | __________ | ___/___/___ |
+| **Líder del Grupo** | Harold Alejandro Vargas Martínez | __________ | 19/03/2026 |
+| **Arquitecto** | Juan Martin Trejos | __________ |  19/03/2026|
+| **Desarrollador 1** | Wilson David Sanchez Prieto | __________ |  19/03/2026 |
+| **Desarrollador 2** | Juan Sebastian Forero Moreno | __________ |  19/03/2026 |
 
 ---
 
