@@ -27,7 +27,7 @@ Por lo tanto, es necesario seleccionar una tecnología de base de datos que equi
 - **DR-03:** Escalabilidad (450 → 1.200 espacios) (Prioridad: Alta)  
 - **DR-05:** Seguridad (PCI-DSS, Ley 1581, retención DIAN) (Prioridad: Alta)  
 - **DR-06:** Costo ≤ $2.000 USD/mes (Prioridad: Media)
-- | **DR-07** Usabilidad operadores sin formación técnica  ≤ 30 min inducción; ≤ 2% error en registro manual (Prioridad:Media)
+- **DR-07** Usabilidad operadores sin formación técnica  ≤ 30 min inducción; ≤ 2% error en registro manual (Prioridad:Media)
 
 
 ---
