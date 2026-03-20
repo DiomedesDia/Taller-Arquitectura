@@ -201,6 +201,6 @@ Esta decisión permite migrar progresivamente el sistema legacy en el futuro sin
 
 **Firmas del equipo:**
 - Harold Alejandro Vargas Martínez: Harold Vargas - Fecha: 19/Marzo/2026  
-- Juan Martin Trejos: __________ - Fecha: 19/Marzo/2026 
-- Wilson David Sanchez Prieto: __________ - Fecha: 19/Marzo/2026  
-- Juan Sebastian Forero Moreno: __________ - Fecha: 19/Marzo/2026  
+- Juan Martin Trejos: Juan Martin Trejos - Fecha: 19/Marzo/2026 
+- Wilson David Sanchez Prieto: Wilson Sanchez - Fecha: 19/Marzo/2026  
+- Juan Sebastian Forero Moreno: Juan Sebastian Forero - Fecha: 19/Marzo/2026  
