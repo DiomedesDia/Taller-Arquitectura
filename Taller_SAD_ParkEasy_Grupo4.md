@@ -7,7 +7,7 @@
 **Preparado por:**
 - Harold Alejandro Vargas Martínez - 00020526190
 - Juan Martin Trejos - 00020513089
-- Wilson David Sanchez Prieto - [Código]
+- Wilson David Sanchez Prieto - 00020438180
 - Juan Sebastian Forero Moreno - [Código]
 
 ---
