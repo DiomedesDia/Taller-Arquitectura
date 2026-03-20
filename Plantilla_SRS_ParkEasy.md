@@ -8,7 +8,7 @@
 **Integrantes:**
 - Harold Alejandro Vargas Martínez - 	
 00020526190
-- Juan Martin Trejos - [Código]
+- Juan Martin Trejos - 00020513089
 - Wilson David Sanchez Prieto - [Código]
 - Juan Sebastian Forero Moreno - [Código]
 
