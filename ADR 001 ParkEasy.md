@@ -202,4 +202,11 @@ Esta arquitectura puede evolucionar hacia microservicios en el futuro si el sist
 **Estado final:** ACEPTADO ✅  
 
 **Firmas del equipo:**
+| Rol | Nombre | Firma | Fecha |
+|-----|--------|-------|-------|
+| **Líder del Grupo** | Harold Alejandro Vargas Martínez | Harold Vargas | 19/03/2026 |
+| **Integrante 2** | Juan Martin Trejos | Martin Trejos | 19/03/2026 |
+| **Integrante 3** | Wilson David Sanchez Prieto | Wilson Sanchez | 19/03/2026 |
+| **Integrante 4** | Juan Sebastian Forero Moreno | Sebastian Forero | 19/03/2026 |
 
+---
