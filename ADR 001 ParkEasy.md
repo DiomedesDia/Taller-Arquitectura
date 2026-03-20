@@ -202,7 +202,4 @@ Esta arquitectura puede evolucionar hacia microservicios en el futuro si el sist
 **Estado final:** ACEPTADO ✅  
 
 **Firmas del equipo:**
-- Harold Alejandro Vargas Martínez: Harold Vargas - Fecha: 18/03/2026  
-- Juan Martin Trejos: Martin Trejos - Fecha: 18/03/2026  
-- Wilson David Sanchez Prieto: Wilson Sanchez - Fecha: 18/03/2026  
-- Juan Sebastian Forero Moreno: Sebastian Forero - Fecha: 18/03/2026
+
