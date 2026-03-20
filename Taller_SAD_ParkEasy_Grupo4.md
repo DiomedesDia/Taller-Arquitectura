@@ -474,10 +474,14 @@ Estos contenedores siguen la arquitectura basada en servicios definida en ADR-00
 
 ## APROBACIONES
 
-- Harold Alejandro Vargas Martínez: Harold Vargas - Fecha: 18/03/2026  
-- Juan Martin Trejos: Martin Trejos - Fecha: 18/03/2026  
-- Wilson David Sanchez Prieto: Wilson Sanchez - Fecha: 18/03/2026  
-- Juan Sebastian Forero Moreno: Sebastian Forero - Fecha: 18/03/2026
+| Rol | Nombre | Firma | Fecha |
+|-----|--------|-------|-------|
+| **Líder del Grupo** | Harold Alejandro Vargas Martínez | Harold Vargas | 19/03/2026 |
+| **Integrante 2** | Juan Martin Trejos | Martin Trejos | 19/03/2026 |
+| **Integrante 3** | Wilson David Sanchez Prieto | Wilson Sanchez | 19/03/2026 |
+| **Integrante 4** | Juan Sebastian Forero Moreno | Sebastian Forero | 19/03/2026 |
+
+---
 
 ---
 
