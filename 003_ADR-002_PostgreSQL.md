@@ -199,7 +199,7 @@ En el futuro, se puede complementar PostgreSQL con soluciones de cache (ej. Redi
 **Estado final:** ACEPTADO ✅  
 
 **Firmas del equipo:**
-- Harold Alejandro Vargas Martínez: __________ - Fecha: ___/___/___  
-- Juan Martin Trejos: __________ - Fecha: ___/___/___  
-- Wilson David Sanchez Prieto: __________ - Fecha: ___/___/___  
-- Juan Sebastian Forero Moreno: __________ - Fecha: ___/___/___  
+- Harold Alejandro Vargas Martínez: __________ - Fecha: 19_/03/2026
+- Juan Martin Trejos: __________ - Fecha: 19/03/2026  
+- Wilson David Sanchez Prieto: __________ - Fecha: 19/03/2026 
+- Juan Sebastian Forero Moreno: __________ - Fecha: 19/03/2026
