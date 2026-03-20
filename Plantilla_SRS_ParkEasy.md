@@ -402,7 +402,7 @@ Los siguientes requisitos tienen mayor impacto en las decisiones arquitecturales
 
 ---
  
-**Fin del Documento SRS**
+
  
 ---
 
