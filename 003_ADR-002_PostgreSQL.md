@@ -12,7 +12,7 @@
 
 El sistema ParkEasy debe almacenar y gestionar información crítica como disponibilidad de espacios, reservas, transacciones de pago, facturación electrónica y datos de usuarios. Esta información requiere consistencia, integridad y capacidad de consulta en tiempo real.
 
-Adicionalmente, el sistema debe cumplir requisitos estrictos de rendimiento (consultas de disponibilidad ≤ 500 ms), escalabilidad (crecimiento de 450 a 1.200 espacios sin rediseño) y seguridad (cumplimiento de PCI-DSS y Ley 1581).
+Adicionalmente, el sistema debe cumplir requisitos estrictos de rendimiento (consultas de disponibilidad ≤ 5 s), escalabilidad (crecimiento de 450 a 1.200 espacios sin rediseño) y seguridad (cumplimiento de PCI-DSS y Ley 1581).
 
 El sistema también debe operar bajo restricciones de costo (≤ $2.000 USD/mes en MVP) y ser manejable por un equipo pequeño de 4 desarrolladores, lo cual limita la complejidad tecnológica que puede adoptarse.
 
