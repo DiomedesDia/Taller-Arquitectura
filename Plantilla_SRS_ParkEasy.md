@@ -396,47 +396,13 @@ Los siguientes requisitos tienen mayor impacto en las decisiones arquitecturales
 | Rol | Nombre | Firma | Fecha |
 |-----|--------|-------|-------|
 | **Líder del Grupo** | Harold Alejandro Vargas Martínez | Harold Vargas | 18/03/2026 |
-| **Integrante 2** | Juan Martin Trejos | __________ | 18/03/2026 |
-| **Integrante 3** | Wilson David Sanchez Prieto | __________ | 18/03/2026 |
-| **Integrante 4** | Juan Sebastian Forero Moreno | __________ | 18/03/2026 |
- 
+| **Integrante 2** | Juan Martin Trejos | Martin Trejos | 18/03/2026 |
+| **Integrante 3** | Wilson David Sanchez Prieto | Wilson Sanchez | 18/03/2026 |
+| **Integrante 4** | Juan Sebastian Forero Moreno | Sebastian Forero | 18/03/2026 |
+
 ---
  
 **Fin del Documento SRS**
  
 ---
-<!--
-## NOTAS PARA TENER EN CUENTA
 
-### ✅ Checklist de Calidad
-
-Antes de entregar, verificar:
-
-- [ ] Mínimo 6 requisitos funcionales documentados
-- [ ] Cada RF tiene ID, prioridad, descripción y criterios
-- [ ] Mínimo 5 requisitos no funcionales documentados
-- [ ] Cada RNF tiene métricas ESPECÍFICAS (no vagas)
-- [ ] Alcance claramente definido (qué SÍ y qué NO)
-- [ ] Supuestos documentados
-- [ ] Drivers arquitecturales identificados (útil para ADRs)
-- [ ] Documento profesional y bien redactado
-- [ ] Sin errores ortográficos
-
-### 💡 Tips
-
-1. **Requisitos Funcionales:** Piensen en los flujos de usuario
-2. **Requisitos No Funcionales:** Usen el enunciado, tiene métricas sugeridas
-3. **Drivers:** Pregúntense "¿Este requisito impacta decisiones de arquitectura?"
-4. **Alcance:** Sean realistas con 8 meses y 4 devs
-
-### ⚠️ Errores Comunes a Evitar
-
-❌ RNF vago: "El sistema debe ser rápido"  
-✅ RNF específico: "Entrada/salida ≤ 5 segundos P95"
-
-❌ RF sin criterios de aceptación  
-✅ RF con 3-5 criterios medibles
-
-❌ No documentar supuestos  
-✅ Listar todos los supuestos en sección 6.1
--->
