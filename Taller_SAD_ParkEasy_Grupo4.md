@@ -133,7 +133,7 @@ Este documento utiliza el **modelo C4** para describir la arquitectura.
 **Archivo Structurizr DSL:** `Taller_ParkEasy_Architecture_Grupo4.dsl`
 
 **Cómo visualizar:**
-1. Ir a `https://structurizr.com/dsl`
+1. Ir a `https://structurizr.com
 2. Copiar el contenido del archivo `.dsl`
 3. Hacer clic en **Render**
 4. Revisar las vistas en el menú lateral izquierdo
